@@ -261,8 +261,8 @@ const projects = [
       },
     ],
     image: blogapp,
-    source_code_link: "https://github.com/DEVELOPERxSAJIB/blog-app",
-    live_link: "https://blog-application-five-eta.vercel.app",
+    source_code_link: "https://github.com/DEVELOPERxSAJIB/BlogSphare",
+    live_link: "https://blogsphare-kappa.vercel.app",
   },
   {
     name: "Fam Clinic",
